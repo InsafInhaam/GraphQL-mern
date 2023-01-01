@@ -1,0 +1,11 @@
+login
+
+admin create 
+admin update 
+admin delete
+
+profile update
+
+- email can't be changed
+
+forget password
